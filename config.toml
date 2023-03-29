@@ -21,6 +21,7 @@ description = "WakeUpDevs"
 keywords = "wakeup,developer"
 info = ["Before doing anything you must be awake"]
 avatarURL = "img/logo.png"
+favicon_16 = "img/favicon.ico"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
 # Right To Left, shift content direction for languagues such as Arabic
