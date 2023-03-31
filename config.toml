@@ -116,16 +116,8 @@ customRemoteJS = []
 [[params.social]]
 name = "LinkedIn"
 icon = "fa fa-2x fa-linkedin"
-weight = 4
-url = "https://www.linkedin.com/in/johndoe/"
-
-[[params.social]]
-name = "RSS"
-icon = "fa fa-2x fa-rss"
-weight = 6
-url = "https://myhugosite.com/index.xml"
-rel = "alternate"
-type = "application/rss+xml"
+weight = 1
+url = "https://www.linkedin.com/company/wake-up-devs/"
 
 [languages.en]
 languageName = ":uk:"
