@@ -126,3 +126,8 @@ languageName = ":uk:"
 name = "Gym"
 weight = 1
 url = "gym/"
+
+[[languages.en.menu.main]]
+name = "Info"
+weight = 2
+url = "info/"
