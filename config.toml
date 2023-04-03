@@ -19,7 +19,7 @@ author = "WakeUpDevs"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "WakeUpDevs"
 keywords = "wakeup,developer"
-info = ["Before doing anything you must be awake"]
+info = ["Before doing anything you must be awake  \n\n Everyday at 8:45 GTM+2  \n15 minutes of physical exercises to oxigenate the brain"]
 avatarURL = "img/logo.png"
 favicon_16 = "img/favicon.ico"
 #gravatar = "john.doe@example.com"
