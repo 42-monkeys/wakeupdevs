@@ -119,6 +119,12 @@ icon = "fa fa-2x fa-linkedin"
 weight = 1
 url = "https://www.linkedin.com/company/wake-up-devs/"
 
+[[params.social]]
+name = "Instagram"
+icon = "fa fa-2x fa-instagram"
+weight = 2
+url = "https://www.instagram.com/baldarn/"
+
 [languages.en]
 languageName = ":uk:"
 
